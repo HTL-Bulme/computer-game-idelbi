@@ -1,0 +1,18 @@
+{
+  "tests": [
+    {
+      "name": "TODO",
+      "setup": "sudo apt install python3-pytest",
+      "run": "python -m pytest -k TODO_test",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "TODO",
+      "setup": "sudo apt install python3-pytest",
+      "run": "python -m pytest -k TODO_test",
+      "timeout": 10,
+      "points": 2
+    }
+  ]
+}
